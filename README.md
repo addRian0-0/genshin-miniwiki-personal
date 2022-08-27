@@ -10,5 +10,6 @@ Una pequeña wiki personal sobre Genshin Impact que además sirve para ensayar c
 - **[MUI](https://mui.com/)**
 - Plantilla de **[HTML 5UP!](https://html5up.net/)**
 
+#### API externa que es consumida para su funcionamiento **[aqui](http://genshin-app-api.herokuapp.com/)** (agradecimientos a sus desarrolladores :D).
 
-#### Puedes ver la aplicación desplegada y en funcionamiento aqui.
+#### Puedes ver la aplicación desplegada y en funcionamiento **[aquí](https://genshin-miniwiki-personal.vercel.app/)**.
